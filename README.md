@@ -1,3 +1,3 @@
 # COVcare-Project
 
-LINK-https://gaurav22singh.github.io/COVcare-Project/project%205/covfront.html
+LINK-https://gaurav22singh.github.io/ONLINE-HOSPITAL-MANAGEMENT/project%205/covfront.html
